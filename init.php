@@ -174,7 +174,7 @@ function the_contacts() {
       </section></article>";
      
      echo $output;
-     var_dump($output); }
+     }
     
 }
 
